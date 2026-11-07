@@ -58,8 +58,9 @@ Asset managers increasingly use ESG (Environmental, Social and Governance) ratin
 │   └── analysis_final.csv            # with ESG groups and sector-adjusted metrics
 ├── figures/                          # charts used in the presentation
 ├── notebooks/
-│   └── esg_sp500_analysis.ipynb      # full analysis
-├── presentation/                     # project presentation (PDF)
+│   ├── esg_sp500_analysis.ipynb      # full analysis in one notebook
+│   └── parts/                        # same analysis split into 3 documented notebooks
+├── presentation/                     # project presentation (Spanish)
 ├── requirements.txt
 └── README.md
 ```
